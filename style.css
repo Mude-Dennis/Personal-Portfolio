@@ -364,6 +364,12 @@ button { font: inherit; cursor: pointer; background: none; border: none; color: 
   background: var(--surface);
 }
 
+.frame-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
 .hero-ticker {
   margin-top: clamp(2.5rem, 6vw, 4rem);
   border-top: 1px solid var(--border);
@@ -420,6 +426,12 @@ button { font: inherit; cursor: pointer; background: none; border: none; color: 
   overflow: hidden;
   border: 1px solid var(--border);
   max-width: 260px;
+}
+
+.about-portrait img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 .about-lead {

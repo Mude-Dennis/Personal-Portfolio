@@ -104,28 +104,30 @@ document.addEventListener('DOMContentLoaded', function () {
     'farmers-help': {
       category: 'AgriTech · Soil testing',
       title: 'Farmers Help',
-      image: 'images/project-farmers-help.svg',
-      description: 'Farmers Help is an agricultural technology initiative focused on helping farmers understand their soil through practical soil testing. The project explored the development of a portable soil laboratory using sensors, microcontrollers and testing techniques, aimed at giving farmers clearer, faster information about their land.',
+      image: 'images/Dennis Kyule Muli with his Farmers Help team(Mksu Hackfest).png',
+      description: 'Farmers Help is an agricultural technology initiative led by Dennis Kyule Muli, focused on helping farmers understand their soil through practical soil testing. The project explored the development of a portable soil laboratory using sensors, microcontrollers and testing techniques, aimed at giving farmers clearer, faster information about their land. (The concept used at Farmers Help was presented at Mksu Hackfest and came out first place in the Agri-Tech category).',
       tags: ['Arduino', 'ESP32', 'Soil sensors', 'RS485', 'Environmental sensing', 'Soil testing', 'Data processing']
     },
     'chargeagain': {
       category: 'Energy · Battery technology',
       title: 'ChargeAgain',
-      image: 'images/project-chargeagain.svg',
-      description: 'ChargeAgain explores ways of extending the usefulness of batteries and making energy storage more accessible. The project involved battery monitoring, battery management concepts, ESP32-based systems and a digital interface for tracking battery information in real time.',
+      image: 'images/Dennis Kyule Muli presenting Project ChargeAgain and winning an Award with his patner at Enactus National Expo 2025 .png',
+      description: 'ChargeAgain explores ways of extending the usefulness of batteries and making energy storage more accessible. The project involved battery monitoring, battery management concepts, ESP32-based systems and a digital interface for tracking battery information in real time. It was an award-winning project(led by Dennis Kyule Muli) at the 2025 Enactus National Expo.',
       tags: ['ESP32', 'Battery management', 'Sensors', 'Firebase', 'Energy storage', 'Embedded systems']
     },
-    'greenhouse': {
-      category: 'AgriTech · Embedded systems',
-      title: 'Smart Greenhouse System',
-      image: 'images/project-greenhouse.svg',
-      description: 'An exploration of sensor-based agricultural monitoring and environmental data collection, built to give a clearer, continuous picture of growing conditions inside a greenhouse environment.',
-      tags: ['Arduino', 'ESP32', 'Sensors', 'Temperature monitoring', 'Soil monitoring', 'Embedded systems']
-    },
+  
+'recykroute': {
+  category: 'Waste Management · Innovation · Field Research',
+  title: 'Recykroute',
+  image: 'images/Dennis Kyule Muli presenting project Recykroute and enganging with stakeholdes in the field.png',
+  description: 'A waste management project developed through the Timbuktoo platform, supported by UNDP. The project involved extensive field research across Machakos County, engaging county officials, waste collectors, aggregators, property managers, caretakers and other stakeholders to understand waste management challenges and test practical approaches through an experimental pilot.',
+  tags: ['Waste Management', 'Field Research', 'Stakeholder Engagement', 'Machakos County', 'Pilot Testing']
+},
+
     'bornelabs': {
       category: 'Innovation · Entrepreneurship',
       title: 'BorneLabs',
-      image: 'images/project-bornelabs.svg',
+      image: 'images/BornelabsLogo.png',
       description: 'BorneLabs is an innovation community focused on exploration, technology and practical problem solving. It represents the entrepreneurial and innovation side of my work — a space for testing ideas and building alongside other people who like making things.',
       tags: ['Innovation', 'Community building', 'Product thinking']
     }
